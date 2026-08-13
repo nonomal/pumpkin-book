@@ -1,10 +1,9 @@
-```{important}
-参与组队学习的同学须知：
-
-本章学习时间：3天
-
-本章配套视频教程：https://www.bilibili.com/video/BV1Mh411e7VU?p=17
-```
+> [!IMPORTANT]
+> 参与组队学习的同学须知：
+> 
+> 本章学习时间：3天
+> 
+> 本章配套视频教程：https://www.bilibili.com/video/BV1Mh411e7VU?p=17
 
 # 第11章 特征选择与稀疏学习
 

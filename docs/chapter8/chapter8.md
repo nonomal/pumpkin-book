@@ -1,14 +1,13 @@
-```{important}
-参与组队学习的同学须知：
-
-本章学习时间：3天
-
-本章配套视频教程：
-
-https://www.bilibili.com/video/BV1Mh411e7VU?p=12
-
-https://www.bilibili.com/video/BV1Mh411e7VU?p=13
-```
+> [!IMPORTANT]
+> 参与组队学习的同学须知：
+> 
+> 本章学习时间：3天
+> 
+> 本章配套视频教程：
+> 
+> https://www.bilibili.com/video/BV1Mh411e7VU?p=12
+> 
+> https://www.bilibili.com/video/BV1Mh411e7VU?p=13
 
 # 第8章 集成学习
 

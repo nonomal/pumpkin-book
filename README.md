@@ -1,3 +1,8 @@
+<div align=center>
+<img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/pumpkin.png" >
+<h1>南瓜书（pumpkin-book）</h1>
+</div>
+
 “周志华老师的《机器学习》（西瓜书）是机器学习领域的经典入门教材之一，周老师为了使尽可能多的读者通过西瓜书对机器学习有所了解, 所以在书中对部分公式的推导细节没有详述，但是这对那些想深究公式推导细节的读者来说可能“不太友好”，本书旨在对西瓜书里比较难理解的公式加以解析，以及对部分公式补充具体的推导细节。”
 
 读到这里，大家可能会疑问为啥前面这段话加了引号，因为这只是我们最初的遐想，后来我们了解到，周老师之所以省去这些推导细节的真实原因是，他本尊认为“理工科数学基础扎实点的大二下学生应该对西瓜书中的推导细节无困难吧，要点在书里都有了，略去的细节应能脑补或做练习”。所以......本南瓜书只能算是我等数学渣渣在自学的时候记下来的笔记，希望能够帮助大家都成为一名合格的“理工科数学基础扎实点的大二下学生”。
@@ -11,11 +16,9 @@
 ## 配套资源
 视频教程：[https://www.bilibili.com/video/BV1Mh411e7VU](https://www.bilibili.com/video/BV1Mh411e7VU)
 
-组队学习：[https://www.datawhale.cn/learn/summary/2](https://www.datawhale.cn/learn/summary/2)
-
-在线阅读：[https://www.datawhale.cn/learn/summary/2](https://www.datawhale.cn/learn/summary/2)
-
 PDF版本下载：[https://github.com/datawhalechina/pumpkin-book/releases](https://github.com/datawhalechina/pumpkin-book/releases)
+
+组队学习：[https://www.datawhale.cn/learn/summary/2](https://www.datawhale.cn/learn/summary/2)
 
 ## 纸质版
 <img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/nangua_v2.jpg" width="300" height="316">
@@ -53,10 +56,13 @@ PDF版本下载：[https://github.com/datawhalechina/pumpkin-book/releases](http
 ## 致谢
 特别感谢[@awyd234](https://github.com/awyd234)、[@feijuan](https://github.com/feijuan)、[@Ggmatch](https://github.com/Ggmatch)、[@Heitao5200](https://github.com/Heitao5200)、[@xhqing](https://github.com/xhqing)、[@LongJH](https://github.com/LongJH)、[@LilRachel](https://github.com/LilRachel)、[@LeoLRH](https://github.com/LeoLRH)、[@Nono17](https://github.com/Nono17)、[@spareribs](https://github.com/spareribs)、[@sunchaothu](https://github.com/sunchaothu)、[@StevenLzq](https://github.com/StevenLzq) 在最早期的时候对南瓜书所做的贡献。
 
-## 关注我们
+
+<div align=center>
+<h2>关注我们</h2>
 扫描下方二维码关注公众号：Datawhale，然后发送“南瓜书”，即可获取“南瓜书读者交流群”入群方式
 
 <img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width="180" height="180">
 
-## LICENSE
-本作品采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/)进行许可。
+<h2>LICENSE</h2>
+本作品采用 <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议（CC BY-NC-SA 4.0）</a> 进行许可
+</div>
